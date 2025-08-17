@@ -1,0 +1,14 @@
+2025-04-13 17:21:47,622 - ERROR - Save member failed: UNIQUE constraint failed: members.cnic
+2025-04-13 20:22:09,456 - ERROR - Save member failed: UNIQUE constraint failed: members.cnic
+2025-04-13 20:25:18,279 - INFO - Attempting to save member, sport_var: Gym
+2025-04-13 20:25:18,280 - INFO - Membership type: 30-day
+2025-04-13 20:26:16,502 - INFO - Sport selected: Swimming
+2025-04-13 20:26:21,152 - INFO - Attempting to save member, sport_var: Swimming
+2025-04-13 20:26:21,152 - INFO - Membership type: 30-day
+2025-04-13 21:09:19,780 - INFO - Attempting to save member, sport_var: Gym
+2025-04-13 21:09:19,780 - INFO - Membership type: 30-day
+2025-04-13 21:10:38,946 - INFO - Attempting to save member, sport_var: Gym
+2025-04-13 21:10:38,947 - INFO - Membership type: 30-day
+2025-04-13 21:10:40,881 - ERROR - Save member failed: UNIQUE constraint failed: members.cnic
+2025-04-14 02:30:44,700 - INFO - Sport selected: Basketball
+2025-05-05 12:15:11,462 - INFO - Sport selected: Basketball
